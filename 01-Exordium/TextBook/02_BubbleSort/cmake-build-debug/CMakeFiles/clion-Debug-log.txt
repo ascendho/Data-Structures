@@ -1,4 +1,0 @@
-"D:\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2023.1.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\data\duotone\repo\01-Exordium\TextBook\02_BubbleSort -B D:\data\duotone\repo\01-Exordium\TextBook\02_BubbleSort\cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: D:/data/duotone/repo/01-Exordium/TextBook/02_BubbleSort/cmake-build-debug

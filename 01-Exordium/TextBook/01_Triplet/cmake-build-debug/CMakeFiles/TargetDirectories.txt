@@ -1,3 +1,0 @@
-D:/data/duotone/repo/01-Exordium/TextBook/01_Triplet/cmake-build-debug/CMakeFiles/Triplet.dir
-D:/data/duotone/repo/01-Exordium/TextBook/01_Triplet/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/data/duotone/repo/01-Exordium/TextBook/01_Triplet/cmake-build-debug/CMakeFiles/rebuild_cache.dir

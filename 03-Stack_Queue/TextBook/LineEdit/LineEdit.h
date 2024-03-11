@@ -1,6 +1,0 @@
-#ifndef LINEEDIT_LINEEDIT_H
-#define LINEEDIT_LINEEDIT_H
-
-void LineEdit();
-
-#endif //LINEEDIT_LINEEDIT_H

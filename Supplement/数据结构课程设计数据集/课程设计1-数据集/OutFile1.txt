@@ -1,0 +1,13 @@
+12
+ears  1
+fast  2
+has 2
+how  2
+no 2
+one  2
+running  2 
+so  2
+strange  2
+tail  1
+tigers  3
+two  3

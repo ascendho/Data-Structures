@@ -1,3 +1,0 @@
-D:/data/duotone/repo/02-Linear List/TextBook/SLinkList/cmake-build-debug/CMakeFiles/SLinkList.dir
-D:/data/duotone/repo/02-Linear List/TextBook/SLinkList/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/data/duotone/repo/02-Linear List/TextBook/SLinkList/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-D:/data/duotone/repo/01-Exordium/TextBook/02_BubbleSort/cmake-build-debug/CMakeFiles/bubble_sort.dir
-D:/data/duotone/repo/01-Exordium/TextBook/02_BubbleSort/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/data/duotone/repo/01-Exordium/TextBook/02_BubbleSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
