@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ./img
----
-
 ## 文件说明
 
 - <a href="">Supplement</a>：存放算法动画、课件、课程设计数据集、勘误表以及Word版答案
@@ -53,19 +49,13 @@ typora-copy-images-to: ./img
 
 ## 如何使用 How to use
 
-1. 选用**CLion**(大学生可申请使用免费的教育版本)集成开发环境，配置好C++开发环境
+1. 选用**CLion**(推荐，大学生可申请使用免费的教育版本)集成开发环境，配置好C++开发环境
 
 2. 点击该仓库的`Code`绿色按钮，然后点击`Download ZIP`或者直接使用**终端**下载：
 
 ```bash
 https://github.com/ascendho/Data-Structures.git
 ```
-
-![](img/C0J__QFOH%5D4RD%7D%5BU%7DHYWV@B.png)
-
-3. 解压，然后选中要打开的文件夹，右键选中`Open Folder as CLion Project`
-
-![1](img/1.png)
 
 ------
 
@@ -89,10 +79,10 @@ https://github.com/ascendho/Data-Structures.git
 
 ## 参考书目 Bibliography
 
-|            教材            |      作者      |                             图示                             |                           资源链接                           |
-| :------------------------: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|       数据结构双色版       | 严蔚敏、李冬梅 | ![数据结构（C语言版）（第2版）](img/2110398aa6025c417e71.jpeg) | <a href="https://www.ryjiaoyu.com/book/details/45170">人邮教育</a> |
-| 数据结构习题解析与实验指导 |     李冬梅     | ![数据结构习题解析与实验指导](img/2204c1aa113663e88ab9.png)  | <a href="https://www.ryjiaoyu.com/book/details/43313">人邮教育</a> |
+|            教材            |      作者      |                           图示                            |                           资源链接                           |
+| :------------------------: | :------------: | :-------------------------------------------------------: | :----------------------------------------------------------: |
+|       数据结构双色版       | 严蔚敏、李冬梅 | ![2110398aa6025c417e71](assets/2110398aa6025c417e71.jpeg) | <a href="https://www.ryjiaoyu.com/book/details/45170">人邮教育</a> |
+| 数据结构习题解析与实验指导 |     李冬梅     | ![2204c1aa113663e88ab9](assets/2204c1aa113663e88ab9.png)  | <a href="https://www.ryjiaoyu.com/book/details/43313">人邮教育</a> |
 
 ------
 
