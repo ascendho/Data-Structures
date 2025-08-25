@@ -36,8 +36,8 @@ typora-copy-images-to: ./img
 
 |                            线性表                            |                           栈和队列                           |                       串、数组和广义表                       |                          树和二叉树                          |  图  |                             查找                             | 排序 |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: | :--: |
-| <a href="02-Linear List/Exercise/2.1_MergeList/MergeList.cpp">2.1</a> | <a href="03-Stack_Queue/Exercise/3.1_DblStack/DblStack.cpp">3.1</a> | <a href="04-String_ Array_Generalized List/Exercise/4.1_CharacterFrequencyStatistics/CharacterFrequencyStatistics.cpp">4.1</a> |                                                              |      | <a href="07-Searching/Exercise/7.1_BinSearch_Cur/BinSearch_Cur.cpp">7.1</a> |      |
-| <a href="02-Linear List/Exercise/2.2_MergeList/MergeList.cpp">2.2</a> | <a href="03-Stack_Queue\Exercise\3.2_IsPalindrome\IsPalindrome.cpp">3.2</a> | <a href="04-String_ Array_Generalized List/Exercise/4.2_Inverse/Inverse.cpp">4.2</a> |                                                              |      |                                                              |      |
+| <a href="02-Linear List/Exercise/2.1_MergeList/MergeList.cpp">2.1</a> | <a href="03-Stack_Queue/Exercise/3.1_DblStack/DblStack.cpp">3.1</a> | <a href="04-String_ Array_Generalized List/Exercise/4.1_CharacterFrequencyStatistics/CharacterFrequencyStatistics.cpp">4.1</a> | <a href="05-Tree_Binary Tree/Exercise/5.1_LeafNode/LeafNode.cpp">5.1</a> |      | <a href="07-Searching/Exercise/7.1_BinSearch_Cur/BinSearch_Cur.cpp">7.1</a> |      |
+| <a href="02-Linear List/Exercise/2.2_MergeList/MergeList.cpp">2.2</a> | <a href="03-Stack_Queue\Exercise\3.2_IsPalindrome\IsPalindrome.cpp">3.2</a> | <a href="04-String_ Array_Generalized List/Exercise/4.2_Inverse/Inverse.cpp">4.2</a> | <a href="05-Tree_Binary Tree/Exercise/5.2_CmpTree/CmpTree.cpp">5.2</a> |      |                                                              |      |
 | <a href="02-Linear List/Exercise/2.3_Intersection/Intersection.cpp">2.3</a> | <a href="03-Stack_Queue/Exercise/3.3_InOutS/InOutS.cpp">3.3</a> | <a href="04-String_ Array_Generalized List\Exercise\4.3_Insert\Insert.cpp">4.3</a> |                                                              |      |                                                              |      |
 | <a href="02-Linear List\Exercise\2.4_Difference\Difference.cpp">2.4</a> | <a href="03-Stack_Queue/Exercise/3.4_Postfix/Postfix.cpp">3.4</a> | <a href="04-String_ Array_Generalized List/Exercise/4.4_Format/Format.cpp">4.4</a> |                                                              |      |                                                              |      |
 | <a href="02-Linear List/Exercise/2.5_Decompose/Decompose.cpp">2.5</a> | <a href="03-Stack_Queue/Exercise/3.5_Judge/Judge.cpp">3.5</a> | <a href="04-String_ Array_Generalized List/Exercise/4.5_IsEqual/isEqual.cpp">4.5</a> |                                                              |      |                                                              |      |
@@ -58,7 +58,7 @@ typora-copy-images-to: ./img
 2. 点击该仓库的`Code`绿色按钮，然后点击`Download ZIP`或者直接使用**终端**下载：
 
 ```bash
-git clone https://github.com/ascendho/KY-DS.git
+https://github.com/ascendho/Data-Structures.git
 ```
 
 ![](img/C0J__QFOH%5D4RD%7D%5BU%7DHYWV@B.png)
