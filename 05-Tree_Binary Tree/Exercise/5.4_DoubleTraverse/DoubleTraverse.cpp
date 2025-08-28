@@ -9,5 +9,4 @@ void DoubleTraverse(BiTree T) {
         cout << T->data;            // 访问根结点
         DoubleTraverse(T->rchild);  // 双序遍历右子树
     }
-
 }
